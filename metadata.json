@@ -1,0 +1,6 @@
+{
+  "name": "Mạt Chược",
+  "description": "Trò chơi xếp hình mạt chược 3D ghép 3 viên giống nhau với nhiều màn chơi, hiệu ứng và hỗ trợ hoàn tác, gợi ý, xáo trộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

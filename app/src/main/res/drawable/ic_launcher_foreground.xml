@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 3D bottom/right jade-ivory depth base -->
+    <path
+        android:fillColor="#FF1B6B43"
+        android:pathData="M34,26 L76,26 C79.3,26 82,28.7 82,32 L82,78 C82,81.3 79.3,84 76,84 L34,84 C30.7,84 28,81.3 28,78 L28,32 C28,28.7 30.7,26 34,26 Z" />
+    <!-- Warm bevel rim -->
+    <path
+        android:fillColor="#FFD9D0BE"
+        android:pathData="M34,25 L75,25 C78.3,25 81,27.7 81,31 L81,75 C81,78.3 78.3,81 75,81 L34,81 C30.7,81 28,78.3 28,75 L28,31 C28,27.7 30.7,25 34,25 Z" />
+    <!-- Crisp ivory Mahjong tile face -->
+    <path
+        android:fillColor="#FFFFFDF7"
+        android:pathData="M33,24 L74,24 C77.3,24 80,26.7 80,30 L80,72 C80,75.3 77.3,78 74,78 L33,78 C29.7,78 27,75.3 27,72 L27,30 C27,26.7 29.7,24 33,24 Z" />
+    <!-- Red Dragon (中) bold outer frame -->
+    <path
+        android:fillColor="#FFC81E2B"
+        android:pathData="M39,40 L68,40 L68,56 L39,56 Z M43.5,44.5 L43.5,51.5 L63.5,51.5 L63.5,44.5 Z" />
+    <!-- Red Dragon (中) center vertical pillar -->
+    <path
+        android:fillColor="#FFC81E2B"
+        android:pathData="M51,32 L56,32 L56,69 L51,69 Z" />
+</vector>

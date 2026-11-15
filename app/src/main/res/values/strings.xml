@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mạt Chược</string>
+    <string name="level_label">Màn %1$d</string>
+    <string name="score_label">Điểm</string>
+    <string name="best_score_label">Kỷ lục</string>
+    <string name="tiles_remaining">Còn %1$d quân</string>
+    <string name="combo_label">Liên hoàn x%1$d</string>
+    <string name="action_undo">Hoàn tác</string>
+    <string name="action_hint">Gợi ý</string>
+    <string name="action_shuffle">Xáo trộn</string>
+    <string name="action_levels">Chọn màn</string>
+    <string name="action_restart">Chơi lại</string>
+    <string name="action_next_level">Màn tiếp theo</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="win_title">Tuyệt vời!</string>
+    <string name="win_subtitle">Bạn đã hoàn thành Màn %1$d</string>
+    <string name="lose_title">Khay đã đầy!</string>
+    <string name="lose_subtitle">Đừng nản nhé, hãy hoàn tác hoặc thử lại.</string>
+    <string name="sound_effect_label">Âm thanh</string>
+    <string name="haptic_label">Rung phản hồi</string>
+    <string name="how_to_play_title">Cách chơi</string>
+    <string name="how_to_play_body">Chạm vào các quân mạt chược sáng để đưa xuống khay 5 ô bên dưới. Ghép 3 quân giống nhau để xóa và ghi điểm cộng dồn. Đừng để khay đầy 5 quân không khớp!</string>
+    <string name="cd_tile_blocked">%1$s, đang bị che</string>
+    <string name="cd_tile_playable">%1$s, có thể chọn</string>
+    <string name="celebration_board_cleared">Hoàn thành bàn chơi!</string>
+    <string name="celebration_time_bonus">Thưởng tốc độ +%1$d đ</string>
+</resources>
